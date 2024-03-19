@@ -1,11 +1,3 @@
-### Webpack template with css, images, html, and fonts
+### Webpack template for dropdown
 
-### Does not include
-<ol>
-  <li>
-    Loading Data
-  </li>
-  <li> 
-    Linter
-  </li>
-</ol>
+Only contains div dropdown with css for colors added to show
